@@ -1,4 +1,4 @@
-# 简介 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Loyalsoldier/surge-rules/total?logo=github) [![jsdelivr stats](https://data.jsdelivr.com/v1/package/gh/Loyalsoldier/surge-rules/badge?style=rounded)](https://www.jsdelivr.com/package/gh/Loyalsoldier/surge-rules)
+# 简介
 
 本项目**仅生成**适用于 [**Surge**](https://nssurge.com) 的**中国大陆 IP 地址列表（RULE-SET）**，即 `cncidr.txt`。使用 GitHub Actions 北京时间每天早上 6:30 自动构建，保证规则最新。
 
