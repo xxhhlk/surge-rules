@@ -15,8 +15,8 @@
 #### RULE-SET:
 
 - **中国大陆 IP 地址列表 cncidr.txt**：
-  - [https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt)
-  - [https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/ruleset/cncidr.txt](https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/ruleset/cncidr.txt)
+  - [https://raw.githubusercontent.com/xxhhlk/surge-rules/release/ruleset/cncidr.txt](https://raw.githubusercontent.com/xxhhlk/surge-rules/release/ruleset/cncidr.txt)
+  - [https://cdn.jsdelivr.net/gh/xxhhlk/surge-rules@release/ruleset/cncidr.txt](https://cdn.jsdelivr.net/gh/xxhhlk/surge-rules@release/ruleset/cncidr.txt)
 
 ### 使用方式
 
@@ -24,7 +24,7 @@
 
 ```
 [Rule]
-RULE-SET,https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/ruleset/cncidr.txt,DIRECT
+RULE-SET,https://cdn.jsdelivr.net/gh/xxhhlk/surge-rules@release/ruleset/cncidr.txt,DIRECT
 RULE-SET,LAN,DIRECT
 FINAL,PROXY
 ```
